@@ -39,4 +39,5 @@ Avisos:
 Use este projeto de maneira ética e respeitando as leis.
 O autor não é responsável pelo uso indevido ou ilegal desta ferramenta.
 Bom Uso!!!!E te vejo Logo Mais!!!
+
 Ass:Olyyy
